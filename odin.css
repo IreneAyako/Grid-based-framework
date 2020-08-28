@@ -122,3 +122,31 @@ body {
 .link a {
   margin: 10px;
 }
+
+.footer {
+  height: 200px;
+  margin-top: 15%;
+}
+
+.footer img {
+  height: 60px;
+  width: 60px;
+}
+
+.footer .image {
+  margin-left: 10%;
+}
+
+.link {
+  margin-top: -5%;
+}
+
+.link a {
+  text-decoration: none;
+  color: rgba(37, 37, 37, 0.7);
+  font-size: 18px;
+}
+
+.link a:hover {
+  color: black;
+}
